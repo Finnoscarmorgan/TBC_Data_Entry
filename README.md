@@ -64,17 +64,3 @@ This program gets a title record from the readallaboutit api given a title_id. R
 - **'rename_column.py'**
 this program renames the first column of all csv files in a sub-directory as 'article_id' (this was run on sheets produced prior to June 2022). 
 
-## To Do 22 Aug:
-for 308 sheets processed from the **done** folder.
-1. Process files in **/Users/fiannualamorgan/Documents/2023/TBC_Data_Entry/data_cleaning/done_August_4/to_check/1_files_to_check** for the following information:
-- create dataframe for iterms marked 'Non-fiction'
-- create dataframe for items in which there is no Trove_id and nothing recorded in the 'added' column, or the 'non-fiction' column, this will indicate titles with no mapping. 
-
-2. Process files in **/Users/fiannualamorgan/Documents/2023/TBC_Data_Entry/data_cleaning/done_August_4/to_check/2_not_safe_upload_check** for items that in which the title does not match the information in the database. 
-- how many of these items are there? (there are 99 of these files once the empty 'not_safe' files were removed)
-
-## To do 4 Sep :
-
-1. Process 160 sheets in **/Users/fiannualamorgan/Documents/2023/TBC_Data_Entry/data_cleaning/done_prior_to_23_June_2022** folder.
-
-2. For step 2 process the 47 sheets in **/Users/fiannualamorgan/Documents/2023/TBC_Data_Entry/data_cleaning/done_prior_to_23_June_2022**
