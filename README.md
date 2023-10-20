@@ -3,6 +3,12 @@ This repository contains code that has been used to clean and standardise data f
 
 The data folder contains a pickle file of a json file of data from all processed sheets (up until July 1) at time of harvest (27 July 2023). This includes files that are still in the process of being manually checked.
 
+| Folder | Total number of entries processed | Flagged entries | 
+| --- | --- | --- |
+|done |  249707 |  1078 |
+|done_prior_to_June_2022 |  115421 | 819 |
+|TOTAL |  365128 | 1897 |
+
 ## Remaining Tasks
 1. Manually correcting files that were flagged for checking (see below)
 2. Processing sheets post July 1 (see below) from One Drive
