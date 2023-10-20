@@ -1,7 +1,7 @@
 # TBC_Data_Entry
 This repository contains code that has been used to clean and standardise data for the To Be Continued (Read All About) Project.
 
-The data folder contains a pickle file of a json file of data from all processed sheets (up until July 1) at time of harvest (27 July 2023)
+The data folder contains a pickle file of a json file of data from all processed sheets (up until July 1) at time of harvest (27 July 2023). This includes files that are still in the process of being manually checked.
 
 ## Remaining Tasks
 1. Manually correcting files that were flagged for checking (see below)
